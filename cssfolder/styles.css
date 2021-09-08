@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-variant: small-caps;
+    color: navy;
+    
+    text-align: center;
+    
+}
+
+.itsme{
+    border: 5px dotted lightgreen;
+    float:right
+
+}
+pre{
+    text-align: center;
+}
+div {
+	width: 60%;
+	background-color:lightskyblue;
+
+	position: center;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: lightgreen;
+}
+p{
+    margin-bottom: 12pt;
+}
+
+table, td, th{
+    border: 1px solid rgb(141, 79, 79);
+}  
+table{ 
+    table-layout: fixed;
+    width : 600px;
+    position: center;
+}
+tr:nth-child(even){
+    background-color: mediumturquoise
+}
+tr:nth-child(odd){
+    background-color: mediumspringgreen;
+}
+th{
+    background-color: lightsteelblue;
+}
+#hour{
+    background-color: mediumturquoise;
+}
+#thirty{
+    background-color: mediumspringgreen;
+}
+#cs2550  {
+    background-color: coral;
+}
+
+#work{
+    background-color: cyan;
+}
+
+#cs3100 {
+    background-color: orchid;
+}
+#cs2450{
+    background-color: lightgreen;
+}
+#cs2690 {
+    background-color: palegoldenrod;
+}
+#freedom{
+    background-color: lightgrey;
+}
